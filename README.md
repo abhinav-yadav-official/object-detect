@@ -9,7 +9,7 @@ A simple web app with React front-end and Node (Express) back-end for object det
 git clone https://github.com/deadfrominside/object-detect
 
 # Go inside the directory
-cd doc-scan
+cd object-detect
 
 # Install dependencies
 yarn (or npm install)
